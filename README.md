@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kaijikun 👋
 
-<!--
-**Kaijikun-337/Kaijikun-337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend services in Python and systems tools in C++.
 
-Here are some ideas to get you started:
+**Tech:** Python · FastAPI · SQLAlchemy · SQLite · pytest · C++ · FFmpeg · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[Lumo CRM](https://github.com/Kaijikun-337/Lumo-CRM)**: multi-tenant CRM API with JWT auth and a pytest suite (FastAPI, SQLAlchemy)
+- **[py-wal-kvstore](https://github.com/Kaijikun-337/py-wal-kvstore)**: key-value store with a write-ahead log and crash recovery
+- **[video-player](https://github.com/Kaijikun-337/video-player)**: C++ video player built on FFmpeg
+
+## Currently working on
+
+PostgreSQL, Docker and CI for Lumo CRM, and tests and benchmarks for my storage engine.
